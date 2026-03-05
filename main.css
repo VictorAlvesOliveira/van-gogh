@@ -1,0 +1,22 @@
+ body{
+background: antiquewhite;
+
+ }
+
+ img{
+    width: 300px;
+    float:right;
+    margin: 10px;
+    position:relative;
+ }
+ #céu{
+  margin-top: auto;
+    width: 300px;     /* tamanho da imagem */
+    float: left;      /* coloca a imagem no lado esquerdo */
+    margin-right: 15px; /* espaço entre imagem e texto */
+    display: flex;
+}
+#texto{
+max-width: 400px;
+line-height: 1.6;
+}
