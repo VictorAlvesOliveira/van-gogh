@@ -16,7 +16,7 @@ background: antiquewhite;
     margin-right: 15px; /* espaço entre imagem e texto */
     display: flex;
 }
-#texto{
-max-width: 400px;
+ p {
+max-width: 500px;
 line-height: 1.6;
 }
